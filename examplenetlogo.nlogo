@@ -47,8 +47,8 @@ INPUTBOX
 159
 309
 219
-input
-NIL
+input2
+dsg
 1
 0
 String
